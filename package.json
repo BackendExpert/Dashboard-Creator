@@ -1,0 +1,26 @@
+{
+  "name": "dashboard-creator",
+  "version": "1.0.0",
+  "description": "Creating Dashbaords fro ReactJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackendExpert/Dashboard-Creator.git"
+  },
+  "keywords": [
+    "Dashboard",
+    "ReactJS",
+    "Frontend",
+    "Fullstack Development",
+    "Latest"
+  ],
+  "author": "jehankandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BackendExpert/Dashboard-Creator/issues"
+  },
+  "homepage": "https://github.com/BackendExpert/Dashboard-Creator#readme"
+}
