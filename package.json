@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/BackendExpert/Dashboard-Creator/issues"
   },
-  "homepage": "https://github.com/BackendExpert/Dashboard-Creator#readme"
+  "homepage": "https://github.com/BackendExpert/Dashboard-Creator#readme",
+  "dependencies": {
+    "inquirer": "^12.0.0"
+  }
 }
