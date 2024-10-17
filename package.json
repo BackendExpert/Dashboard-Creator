@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Creating Dashbaords fro ReactJS",
   "main": "src/index.js",
+  "bin": {
+    "create-dashboard": "src/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,6 +27,6 @@
   },
   "homepage": "https://github.com/BackendExpert/Dashboard-Creator#readme",
   "dependencies": {
-    "inquirer": "^12.0.0"
+    "inquirer": "^6.0.0"
   }
 }
